@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-<table class="tg">
+<table class="tg" style="width:100%">
 <thead>
   <tr>
     <th class="tg-73oq"><img src="https://user-images.githubusercontent.com/41609506/142574915-023390d3-7a61-48bc-af03-d21331f94d0b.png" width = "200"> </th>
