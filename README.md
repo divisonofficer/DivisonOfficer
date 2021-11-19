@@ -3,8 +3,9 @@
 
 ### I want to be a talented Software Engineer.
 
-#### Major on Computer Software in Sunkyunkwan University in Republic of Korea since 2018.02 ~
-#### Android Developer on Miner.inc (  [Compnay Homapge](http://minerinc.io) ) since 2021.05 ~
+#### Major on [Computer Software in Sunkyunkwan University](http://cs.skku.edu) in Republic of Korea since 2018.02 ~
+#### Android Developer on Miner.inc since 2021.05 ~
+(  [Compnay Homapge](http://minerinc.io) ) 
 
 #### Working With SigmaTechnology as Android Developer
 <!--
