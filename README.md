@@ -3,9 +3,10 @@
 
 ### I want to be a talented Software Engineer.
 
-#### Major on Computer Software in Sunkyunkwan University in Republic of Korea.
-#### Android Developer on Miner.inc (  [Compnay Homapge](http://minerinc.io) ) since 2021.05
+#### Major on Computer Software in Sunkyunkwan University in Republic of Korea since 2018.02 ~
+#### Android Developer on Miner.inc (  [Compnay Homapge](http://minerinc.io) ) since 2021.05 ~
 
+#### Working With SigmaTechnology as Android Developer
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
