@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## I want to be a talented Software Engineer.
+
+# Major on Computer Software in Sunkyunkwan University in Republic of Korea.
+# Android Developer on Miner.inc (  [Compnay Homapge](http://minerinc.io) ) since 2021.05
+
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
