@@ -75,7 +75,8 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td class="tg-73oq">Studying Unity3D</td>
-    <td class="tg-73oq">I have about 10 years experience in GameMaker Language since GameMaker 6.0</td>
+    <td class="tg-73oq">I have about 10 years experience in 
+      GameMaker Language since GameMaker 6.0</td>
     <td class="tg-73oq"></td>
   </tr>
 </tbody>
