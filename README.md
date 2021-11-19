@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivisonOfficer&layout=compact&langs_count=8&hide=html,python,batchfile,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Language Stacks
-<img src="https://user-images.githubusercontent.com/41609506/142573905-31c99f84-ec4a-4266-bf66-8fa96676a997.png" width = "400"> 
+<img src="https://user-images.githubusercontent.com/41609506/142573905-31c99f84-ec4a-4266-bf66-8fa96676a997.png" width = "400" height = "200"> 
 My Main Programing Language for Android
 
 <img src="https://user-images.githubusercontent.com/41609506/142574374-501670d0-1717-42c0-8ec8-f125b430dee3.png" width = "400">
