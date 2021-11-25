@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivisonOfficer&layout=compact&langs_count=8&hide=html,python,batchfile,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Node.jsr-339933?style=flat&logo=Node.js&logoColor=white"/>
+
 
 ## My Language Stacks
 
