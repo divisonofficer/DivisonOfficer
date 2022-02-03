@@ -6,7 +6,7 @@
 ## My Careers
 
 #### Major on [Computer Software in Sunkyunkwan University](http://cs.skku.edu) in Republic of Korea since 2018.02 ~
-#### Android Developer on Miner.inc since 2021.05 ~
+#### Android Developer on MiNER.inc since 2021.05 ~
 (  [Compnay Homapge](http://minerinc.io) ) 
 
 #### Working With SigmaTechnology as Android Developer
