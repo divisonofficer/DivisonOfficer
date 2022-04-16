@@ -43,8 +43,14 @@ Here are some ideas to get you started:
 
 
 
+## Animation That I invented
 
-<img src="https://user-images.githubusercontent.com/41609506/163674923-e0e4c455-163f-497b-8bd4-e5db52af1ea0.gif" width="500"/>
+
+<img src="https://user-images.githubusercontent.com/41609506/163674923-e0e4c455-163f-497b-8bd4-e5db52af1ea0.gif" width="200"/>
+
+<img src="https://user-images.githubusercontent.com/41609506/163674981-90e03bd8-8d12-41bc-99a8-b009d77016f0.gif" width="400"/>
+
+<img src="https://user-images.githubusercontent.com/41609506/163675000-632cab74-6e43-4b05-addc-5bfd5e42f0ef.gif" width="200"/>
 
 
 
