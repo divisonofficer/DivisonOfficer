@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 
 
-## Animation That I invented
 
-# [Android Study](https://vintage-scale-5ff.notion.site/Android-7b5cd569a9c744db83a9faac52640ff8)
+
+### [Android Study](https://vintage-scale-5ff.notion.site/Android-7b5cd569a9c744db83a9faac52640ff8)
 
 <!--
 <img src="https://user-images.githubusercontent.com/41609506/163674923-e0e4c455-163f-497b-8bd4-e5db52af1ea0.gif" width="200"/>
