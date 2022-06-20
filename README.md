@@ -6,6 +6,7 @@
 ## My Careers
 
  [Computer Software in Sunkyunkwan University](http://cs.skku.edu) 2018.02 ~
+ 
  [MiNER.inc](http://minerinc.io) - Android Developer 2021.05 ~
 
 
