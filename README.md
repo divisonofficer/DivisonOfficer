@@ -17,7 +17,7 @@
 
 2018 ICPC Seoul - 네이버 대표이사상
 
-2019 SHAKE! 3위
+2019 경인지역 대학생 프로그래밍대회 SHAKE! 3위
 
 2019 Openhack 익산시장상
 
@@ -25,9 +25,9 @@
 
 2021 ICPC Seoul - 본선진출
 
-2021 소프트웨어융합대학 소프트의밤 프로그래밍대회 장려
+2021 소프트웨어융합대학 소프트의밤 프로그래밍대회 우수
 
-2022 소프트웨어융합대학 NPC 프로그래밍대회 장려
+2022 소프트웨어융합대학 NPC 프로그래밍대회 우수
 
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
