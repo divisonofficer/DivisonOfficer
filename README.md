@@ -55,12 +55,12 @@ Here are some ideas to get you started:
 
 ## My Tools Stacks
 
-<img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUi-147EFB?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 
 
 ## My Language Stacks
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
 
 
