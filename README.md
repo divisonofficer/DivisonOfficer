@@ -8,6 +8,8 @@
  [Sunkyunkwan University](http://cs.skku.edu) - Software ( Computer Science ) 2018.02 ~
  
  [MiNER.inc](http://minerinc.io) - Android Developer 2021.05 ~
+ 
+ TSS (The Sungkyun Software, Web developping club of Software College) - Frontend Developer 2022.02 ~
 
 ## AWARD
 
