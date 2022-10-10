@@ -33,6 +33,9 @@
 
 2022 소프트웨어융합대학 NPC 프로그래밍대회 우수
 
+2022 ICPC Seoul - 본선진출
+
+
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
