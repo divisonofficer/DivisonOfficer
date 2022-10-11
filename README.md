@@ -9,7 +9,7 @@
  
  [MiNER.inc](http://minerinc.io) - Android Developer 2021.05 ~
  
- TSS (The Sungkyun Software, Web developping club of Software College) - Frontend Developer 2022.02 ~
+ TSS (The Sungkyun Software, Web developping club of Software College) - Frontend Developer(React) 2022.02 ~
 
 ## AWARD
 
