@@ -32,7 +32,7 @@
 
 ## Certificated
 
-|Samsung Software Certificated : Pro(B)|
+Samsung Software Certificated : Pro(B)
 
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
