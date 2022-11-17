@@ -30,6 +30,10 @@
 |2022|소프트웨어융합대학 소프트의밤 프로그래밍대회|우수|
 
 
+## Certificated
+
+|Samsung Software Certificated : Pro(B)|
+
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
