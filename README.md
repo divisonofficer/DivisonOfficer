@@ -31,8 +31,11 @@
 
 
 ## Certificated
+|연도|이름|상세|
+|------|---|---|
+|2022 | Samsung Software Certificated | Pro(B) |
+|2022 | 성균관대학교 학생성공 창의장학생 | 소프트웨어학과 2학기 |
 
-Samsung Software Certificated : Pro(B)
 
 <!--
 **DivisonOfficer/DivisonOfficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
