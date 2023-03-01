@@ -7,9 +7,9 @@
 
  [Sunkyunkwan University](http://cs.skku.edu) - Software ( Computer Science ) 2018.02 ~
  
- [MiNER.inc](http://minerinc.io) - Android Developer(Kotlin) & IOS Developer(SwiftUi) 2021.05 ~ 2023.02
+ [MiNER.inc (Seoul) ](http://minerinc.io) - Android Developer(Kotlin) & IOS Developer(SwiftUi) 2021.05 ~ 2023.02
  
- [Bear Robotics](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 
+ [Bear Robotics (CA) ](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 
  
      Shotag Android
      
