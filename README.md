@@ -9,12 +9,15 @@
  
  [MiNER.inc (Seoul) ](http://minerinc.io) - Android Developer(Kotlin) & IOS Developer(SwiftUi) 2021.05 ~ 2023.02
  
- [Bear Robotics (CA) ](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 
- 
+  
      Shotag Android
      
      Musicalians Android, iOS
  
+ 
+ [Bear Robotics (CA) ](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 
+
+
  TSS (The Sungkyun Software, Web developping club of Software College) - Frontend Developer(React) 2022.02 ~
  
      KingoKoin React.js
