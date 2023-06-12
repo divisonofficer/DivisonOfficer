@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 
 ## See also
-[solved.ac](https://solved.ac/profile/wlssud0701)
+[BOJ](https://www.acmicpc.net/user/wlssud0701) - Solved.ac Diamod V
 
 
 ### [Android Study](https://vintage-scale-5ff.notion.site/Android-7b5cd569a9c744db83a9faac52640ff8)
