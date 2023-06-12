@@ -84,7 +84,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=CoffeeScript&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
 
-
+## See also
+[solved.ac](https://solved.ac/profile/wlssud0701)
 
 
 ### [Android Study](https://vintage-scale-5ff.notion.site/Android-7b5cd569a9c744db83a9faac52640ff8)
