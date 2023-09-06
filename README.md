@@ -32,7 +32,9 @@
      Musicalians Android, iOS
  
  
- [Bear Robotics (CA) ](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 
+ [Bear Robotics (CA) ](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 2023.08
+
+ 
 
 
  TSS (The Sungkyun Software, Web developping club of Software College) - Frontend Developer(React) 2022.02 ~
