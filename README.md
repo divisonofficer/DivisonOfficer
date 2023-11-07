@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=CoffeeScript&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
 ### PS
-<a href="https://solved.ac/profile/wlssud0701" class="no-ul"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/22.svg" class="solvedac-tier" width="20px">&nbsp;</a> [BOJ Profile](https://www.acmicpc.net/user/wlssud0701)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlssud0701)](https://solved.ac/wlssud0701)
 
 ## My Careers
 
