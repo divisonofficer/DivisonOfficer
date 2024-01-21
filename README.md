@@ -39,6 +39,7 @@
  
  [Bear Robotics (CA) ](https://www.bearrobotics.ai/) - Software Intern 2023.03 ~ 2023.08
 
+ Samsung Electronics - S.LSI SW Intern 2024.01 ~ 2024.02
  
 
 
