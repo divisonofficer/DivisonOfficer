@@ -27,7 +27,9 @@
 
 ## My Careers
 
- [Sunkyunkwan University](http://cs.skku.edu) - Software ( Computer Science ) 2018.02 ~
+ [Sunkyunkwan University](https://cs.skku.edu) - Software ( Computer Science ) 2018.03 ~ 2024.02
+
+ [POSTECH](https://cse.postech.ac.kr) - Computer Science & Engineering 2024.02 ~
  
  [MiNER.inc (Seoul) ](http://minerinc.io) - Android Developer(Kotlin) & IOS Developer(SwiftUi) 2021.05 ~ 2023.02
  
